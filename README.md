@@ -1,25 +1,5 @@
 # README
+### DB設計する際に読みたい記事がまとまっているqiita
+https://qiita.com/C058/items/1c9c57f634ebf54d99bb
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# ec-site-backend
